@@ -1,0 +1,19 @@
+{
+  "name": "bookstore-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jesse-Tingle/bookstore-api.git"
+  },
+  "author": "Jesse Tingle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jesse-Tingle/bookstore-api/issues"
+  },
+  "homepage": "https://github.com/Jesse-Tingle/bookstore-api#readme"
+}
